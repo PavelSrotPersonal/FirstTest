@@ -15,7 +15,6 @@ namespace WindowsFormsApplication2
         public Form1()
         {
             InitializeComponent();
-            this.Close();
         }
     }
 }
